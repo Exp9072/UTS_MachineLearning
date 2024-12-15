@@ -1,0 +1,12 @@
+Customer ID,Age,Gender,Annual Income,Spending Score,Potensial,Cluster_OPTICS
+35ec8343-eb43-4faa-af75-7a731381d1ee,37,Female,133,22,No,122
+fe0e8a87-ee23-48f0-ad09-c084ea214846,20,Female,135,23,No,122
+64a6deb2-5452-41e2-b9ae-5a05ccb8cb77,25,Female,133,22,Yes,122
+8c31f3f0-7b61-4b75-9a47-e1f3a6286e89,75,Female,133,22,No,122
+d3afdd98-09ec-4315-9eb3-c87c8ed82078,29,Male,133,23,No,122
+1b64a9a1-4371-49c8-8d9a-e075962b8103,27,Female,134,23,No,122
+21c563f1-20e2-4bda-96f5-6ff647efa345,32,Female,133,22,No,122
+400fc52e-6c1b-491d-ad03-492ddbd588a7,44,Female,134,23,No,122
+931b39e6-1073-4b40-8ed8-006838189506,49,Male,132,23,Yes,122
+56873757-7648-4c2a-8095-be358c22bac7,29,Female,133,22,No,122
+384b0594-6bbf-4a48-bc54-3f58254d618a,49,Female,132,23,Yes,122
